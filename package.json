@@ -18,5 +18,11 @@
     "postcss": "^8.3.11",
     "vue-loader": "^16.8.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "filepond": "^4.30.4",
+    "filepond-plugin-file-validate-type": "^1.2.8",
+    "filepond-plugin-image-preview": "^4.6.11",
+    "vue-filepond": "^7.0.4",
+    "vuex": "^4.1.0"
+  }
 }
